@@ -61,6 +61,7 @@ public class Arraytest {
         
         eingabe();
         
+        // Irgendwas ausgeben
         System.out.println("Fertig!");
     }
     
