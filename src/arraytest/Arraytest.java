@@ -31,6 +31,7 @@ public class Arraytest {
          //rechnen
          //
          //
+         //
          
          
          indexArray[0]= x;
