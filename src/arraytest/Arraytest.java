@@ -13,9 +13,10 @@ public class Arraytest {
 
     public static void eingabe() {
         //Schleife bauen
-        //von der Eingabe (system.in() oder Scanner() einen int holen
-        // abbrechen wenn int < 0
-        // aufruf von function(en)
+       
+        
+        
+        
         //schleifenende
         
         
@@ -25,17 +26,7 @@ public class Arraytest {
     
      public static int[] feldnummer2index(int nr) {
          int[] indexArray = {-1, -1};
-         int x=-1;
-         int y=-1;
-         
-         //rechnen
-         //
-         //
-         //
-         
-         
-         indexArray[0]= x;
-         indexArray[0]= y;
+    
          
          return indexArray;
      }
