@@ -7,7 +7,7 @@ package arraytest;
 
 /**
  *
- * @author Thorsten
+ * @author Marvin
  */
 public class Arraytest {
 
